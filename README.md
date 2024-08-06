@@ -23,6 +23,8 @@ This project focuses on visualizing the inner workings of the ResNet-50 model an
  
   - Covnet Filters: Visualizing filters of the convolutional network reveals the specific visual patterns or concepts each filter is receptive to, offering deeper insights into the model’s internal representations.
 
+As the model progresses through the layers, the visualizations become more abstract and harder for humans to see patterns. 
+This increasing abstraction highlights how the model captures complex, high-level features that are not easily interpretable but are crucial for accurate predictions.
 
 ## Resnet-50 <a id="resnet"></a>
 
